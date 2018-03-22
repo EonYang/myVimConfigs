@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/root/zenDog/.git'
+let g:netrw_dirhist_2='/root/myGithub/tryToCodeInVim'
+let g:netrw_dirhist_3='/root'
+let g:netrw_dirhist_4='/root/.vim'
+let g:netrw_dirhist_5='/root/dwd_course'
+let g:netrw_dirhist_6='/root/dwd_course/02_week_02'
